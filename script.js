@@ -2,8 +2,6 @@ Shery.imageEffect("#back",{style:5, debug: true, gooey:true})
 
 
 
-
-
 var elems=document.querySelectorAll(".elem");
 elems.forEach(function(elem){
     var h1s=elem.querySelectorAll("h1");
